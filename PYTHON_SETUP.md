@@ -28,6 +28,17 @@ Navigate to the [Anaconda website](https://www.anaconda.com) and follow the inst
 * `conda config --get`: list all channels used by conda
 * `conda config --remove channels 'channel-name'` : remove a channel from conda 
 
+
+### Jupyter notebooks
+Lots of ways to do this. In terminal, making sure ipykernel and notebook are installed in your env:
+```
+cd <directory you want to run Jupyter Notebook from>
+conda activate <myenv>
+python -m ipykernel install --user -n <myenv>
+jupyter notebook
+```
+This should open Jupyter notebook using your default web browser in the current directory.
+
 ### Mac Silicon Chips
 If you have a Mac with an M1 or M2 chip, you may experience some issues with channel subdirectories. Conda detects your system type and chooses subdirectories based-on this. For example if you have 
 an M1 chip, conda will use the conda-forge subdirectories conda-forge/osm-arm63 or conda-forge/noarch, but if you have an Intel chip it will use conda-forge/osx-64. This can cause issue with certain
