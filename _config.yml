@@ -6,4 +6,4 @@ relative_links:
 include:
   - README.md
   - PYTHON_SETUP.md
-theme: just-the-docs
+theme: minima
