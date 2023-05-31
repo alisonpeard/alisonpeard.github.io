@@ -1,7 +1,3 @@
-layout: page
-title: "Python Set-up Basics"
-permalink: /python-set-up
-
 ## Setting up Python
 ### Conda environments
 When you install Python, it comes with a number of basic functionalities, but most people need to install extra _packages_ for their specific use-case. Packages contain extra functions and
