@@ -25,6 +25,12 @@ installed you can remove their directories with `rm -rf micromamba` etc. also.
 ### Fresh install
 Navigate to the [Anaconda website](https://www.anaconda.com) and follow the installation instructions for your system.
 
+### Conda commands
+* `conda info`: get info about your conda install
+* `--help`: after any command you want documentation on, e.g. `conda --help`, `conda env --help`
+* `conda config --get`: list all channels used by conda
+* `conda config --remove channels 'channel-name'` : remove a channel from conda 
+
 ### Mac Silicon Chips
 If you have a Mac with an M1 or M2 chip, you may experience some issues with channel subdirectories. Conda detects your system type and chooses subdirectories based-on this. For example if you have 
 an M1 chip, conda will use the conda-forge subdirectories conda-forge/osm-arm63 or conda-forge/noarch, but if you have an Intel chip it will use conda-forge/osx-64. This can cause issue with certain
