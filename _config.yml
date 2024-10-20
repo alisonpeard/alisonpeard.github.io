@@ -4,5 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - README.md
   - RP_OVERVIEW.md
 theme: minimal
