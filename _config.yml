@@ -6,4 +6,4 @@ relative_links:
 include:
   - README.md
   - RP_OVERVIEW.md
-theme: minimal
+theme: just-the-docs
