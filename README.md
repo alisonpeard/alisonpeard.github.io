@@ -1,3 +1,2 @@
-# OPSIS Cookbook (beta)
-* [Python setup basics](https://alisonpeard.github.io/PYTHON_SETUP.html)
-* [Github basics](https://alisonpeard.github.io/GITHUB_BASICS.html)
+# GitHub.io
+* [Return Period Overview](https://alisonpeard.github.io/RP_OVERVIRE.html)
