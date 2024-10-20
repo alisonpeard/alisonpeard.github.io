@@ -38,4 +38,4 @@ so for a dataset of $1200$ events with 17 events per year, we need $x$ to be in 
 
   
 
-Actually, the dataset has $1228$ storms, and $1159$ are assigned a RP less than 1, while $69$ greater than 1. So seems approximately correct.
+Actually, our dataset has $1228$ storms, and $1159$ are assigned a RP less than 1, while $69$ greater than 1.
