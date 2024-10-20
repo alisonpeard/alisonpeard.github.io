@@ -1,3 +1,4 @@
+# Overview of return period calculations
 Following [this page](https://georgebv.github.io/pyextremes/user-guide/6-return-periods/), return periods are calculated as following: let $x$ be the maximum wind speed of a storm and we rank the $N$ storms from largest to smallest where the rank of the biggest storm is $r(x)=1$.
 
 Then the exceedance probability $$S(x) = \mathbb{P}(X\geq x)=\frac{r(x)}{N+1}$$.
@@ -7,6 +8,7 @@ If we have $\lambda=17$ storms in a year, the return period is given by
 $$\frac{1}{\lambda S(x)}.$$
 
 To have return period greater than 1-year,
+
 $$
 \begin{align*}
 \text{RP} = \frac{1}{\lambda S(x)} &\geq 1 \\
