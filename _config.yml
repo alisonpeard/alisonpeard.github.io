@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - README.md
-  - PYTHON_SETUP.md
+  - RP_OVERVIEW.md
+  # - README.md
+  # - PYTHON_SETUP.md
 theme: minimal
