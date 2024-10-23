@@ -3,17 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [alison.peard@ouce.ox.ac.uk](mailto:alison.peard@ouce.ox.ac.uk)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> School of Geography and the Environemnt
 >
-> London
+> Oxford
 >
 > United Kingdom
 
@@ -21,6 +19,4 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/alison-peard/)
