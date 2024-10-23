@@ -20,7 +20,9 @@ sass:
 nav:
  - name: "Home"
    link: "https://alisonpeard.github.io"
- - name: "Resume"
-   link: "cv.pdf"
+ - name: "Content"
+   link: "CONTENT"
  - name: "Contact"
    link: "contact"
+ - name: "Resume"
+   link: "cv.pdf"
