@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://alisonpeard.github.i0"
+footer_url: "https://alisonpeard.github.io"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -16,6 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Home"
+   link: "https://alisonpeard.github.io"
  - name: "Resume"
    link: "cv.pdf"
  - name: "Contact"
