@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile_square.jpg">
+<img class="profile-picture" src="profile_square.JPG" height=200>
 
 Hi, I am a PhD researcher at the Environmental Change Institute, University of Oxford.
 
