@@ -20,3 +20,4 @@ is_contact: true
 ## Social
 
 1. [LinkedIn](https://www.linkedin.com/in/alison-peard/)
+2. [Google Scholar](https://scholar.google.com/citations?user=ZINq2K8AAAAJ&hl=en&oi=ao)
